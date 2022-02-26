@@ -1,1 +1,1 @@
-# Moshify
+# Moshify - A Cloud Hosting Website
